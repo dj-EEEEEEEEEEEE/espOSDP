@@ -21,7 +21,7 @@ management interface.
 - Isolated RS-485 reader ports
 
 ## Status
-🚧 Early development  
+Early development  
 Currently bringing up libosdp CP with HID Signo readers.
 
 ## Disclaimer
