@@ -1,4 +1,4 @@
-# OSDPi
+# espOSDP
 
 espOSDP is a ESP32-based OSDP v2 access control panel designed to run on an ESP32 Wroom V3.
 It supports OSDP Secure Channel, HID Signo readers, LED and beeper control, and a web-based
