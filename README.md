@@ -1,6 +1,6 @@
 # OSDPi
 
-OSDPi is a Linux-based OSDP v2 access control panel designed to run on a Raspberry Pi 5.
+espOSDP is a ESP32-based OSDP v2 access control panel designed to run on an ESP32 Wroom V3.
 It supports OSDP Secure Channel, HID Signo readers, LED and beeper control, and a web-based
 management interface.
 
@@ -14,14 +14,13 @@ management interface.
 - Custom PCB IO Interface
 
 ## Architecture
-- Linux SBC (Raspberry Pi 5)
 - libosdp for protocol handling
 - FastAPI backend
 - Web frontend (TBD)
 - Isolated RS-485 reader ports
 
 ## Status
-Early development  
+Working and in development.
 Currently bringing up libosdp CP with HID Signo readers.
 
 ## Disclaimer
